@@ -1,0 +1,6 @@
+framework module Pods_InstagramLoginKit_Tests {
+  umbrella header "Pods-InstagramLoginKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,6 +1,6 @@
 # InstagramLoginKit
 
-[![CI Status](https://img.shields.io/travis/HomanFa/InstagramLoginKit.svg?style=flat)](https://travis-ci.org/HomanFa/InstagramLoginKit)
+[![CI Status](https://img.shields.io/travis/grighakobian/InstagramLoginKit.svg?style=flat)](https://travis-ci.org/grighakobian/InstagramLoginKit)
 [![Version](https://img.shields.io/cocoapods/v/InstagramLoginKit.svg?style=flat)](https://cocoapods.org/pods/InstagramLoginKit)
 [![License](https://img.shields.io/cocoapods/l/InstagramLoginKit.svg?style=flat)](https://cocoapods.org/pods/InstagramLoginKit)
 [![Platform](https://img.shields.io/cocoapods/p/InstagramLoginKit.svg?style=flat)](https://cocoapods.org/pods/InstagramLoginKit)
@@ -22,7 +22,7 @@ pod 'InstagramLoginKit'
 
 ## Author
 
-HomanFa, grighakobian@gmail.com
+Grigor Hakobyan, grighakobian@gmail.com
 
 ## License
 

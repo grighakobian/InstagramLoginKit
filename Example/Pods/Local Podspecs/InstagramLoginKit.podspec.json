@@ -1,0 +1,22 @@
+{
+  "name": "InstagramLoginKit",
+  "version": "0.1.0",
+  "summary": "A short description of InstagramLoginKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/grighakobian/InstagramLoginKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Grigor Hakobyan": "grighakobian@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/grighakobian/InstagramLoginKit",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "InstagramLoginKit/Classes/**/*"
+}

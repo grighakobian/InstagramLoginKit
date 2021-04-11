@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  InstagramLoginKit
 //
-//  Created by HomanFa on 04/11/2021.
-//  Copyright (c) 2021 HomanFa. All rights reserved.
+//  Created by Grigor Hakobyan on 04/11/2021.
+//  Copyright (c) 2021 Grigor Hakobyan. All rights reserved.
 //
 
 import UIKit

@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3D9D1D1BC7BC8520819030C7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		3D9D1D1BC7BC8520819030C7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5C053A8251383970D74D1A37 /* Pods-InstagramLoginKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramLoginKit_Example.debug.xcconfig"; path = "Target Support Files/Pods-InstagramLoginKit_Example/Pods-InstagramLoginKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		6009F314F7437A4AA87E8767 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6009F314F7437A4AA87E8767 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* InstagramLoginKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstagramLoginKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7303EC69DBCB60D4DD6D6369 /* Pods_InstagramLoginKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramLoginKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B336E5DA8F8F4601DC923E3 /* Pods-InstagramLoginKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramLoginKit_Example.release.xcconfig"; path = "Target Support Files/Pods-InstagramLoginKit_Example/Pods-InstagramLoginKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		9F5FB979A61543379C048496 /* InstagramLoginKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = InstagramLoginKit.podspec; path = ../InstagramLoginKit.podspec; sourceTree = "<group>"; };
+		9F5FB979A61543379C048496 /* InstagramLoginKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = InstagramLoginKit.podspec; path = ../InstagramLoginKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AEBD387326DFA1E8795DC5BD /* Pods-InstagramLoginKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramLoginKit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-InstagramLoginKit_Tests/Pods-InstagramLoginKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		D520779E9B14318C16C76A1F /* Pods_InstagramLoginKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramLoginKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15F0EB6EFB4D1123AA49B80 /* Pods-InstagramLoginKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramLoginKit_Tests.release.xcconfig"; path = "Target Support Files/Pods-InstagramLoginKit_Tests/Pods-InstagramLoginKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -156,7 +156,6 @@
 				AEBD387326DFA1E8795DC5BD /* Pods-InstagramLoginKit_Tests.debug.xcconfig */,
 				F15F0EB6EFB4D1123AA49B80 /* Pods-InstagramLoginKit_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

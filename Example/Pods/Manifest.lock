@@ -1,0 +1,16 @@
+PODS:
+  - InstagramLoginKit (0.1.0)
+
+DEPENDENCIES:
+  - InstagramLoginKit (from `../`)
+
+EXTERNAL SOURCES:
+  InstagramLoginKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  InstagramLoginKit: 556e2098ce6c26f7bf0603200bc8b01eb8cdeaf2
+
+PODFILE CHECKSUM: a68a17d4d7713b8fd4107224de7f0d8cbd6fedcf
+
+COCOAPODS: 1.10.0
